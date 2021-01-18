@@ -1,0 +1,57 @@
+/* add your CSS here */
+*{
+margin:0;
+  padding:0;
+}
+#container {
+  padding: 1px 15px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+   border-radius: 0.25rem;
+}
+.card {
+  margin-top:10px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  word-wrap: break-word;
+  width: 300px;
+  background-color: #fff;
+  background-clip: border-box;
+  -webkit-box-shadow: 5px 5px 5px 5px rgba(221,221,221,0.57); 
+box-shadow: 5px 5px 5px 5px rgba(221,221,221,0.57);
+   padding: 1px 1px;
+}
+.card-title {
+  padding: 1px 1px;
+  margin: 0.5rem 1rem;
+}
+#interesting-fact {
+font-style: italic;
+   padding: 1px 1px;
+}
+.card-body {
+  flex: 1 1 auto;
+  padding: 1rem 1rem;
+  margin: 1rem 1rem;
+  border: 2px solid #e7e7e7;
+  border-radius: 0.25rem;
+}
+.card-img{
+ width: 90%;
+  flex: 1 1 auto;
+  margin: 0 1rem;
+  border-radius: 0.25rem;
+   padding: 1px 1px;
+}
+ul {
+list-style-type: none;
+}
+li span {
+font-weight: bold;
+}
+#interesting-fact,#facts {
+   padding: 1px 1px;
+  padding-bottom: 1.5rem;
+}
