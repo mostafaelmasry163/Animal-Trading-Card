@@ -11,7 +11,7 @@ try and recreate what you see in this:
 
 ##### Live
 
-**Go to** https://mostafaelmasry163.github.io/Animal-Trading-Card
+**Go to** https://mostafaelmasry163.github.io/Animal-Trading-Card/card.html
 
 
 ##### Locally	
